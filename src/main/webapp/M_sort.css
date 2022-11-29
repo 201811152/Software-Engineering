@@ -1,0 +1,26 @@
+@charset "UTF-8";
+fieldset {
+	 position: relative;
+   float: center;
+   left: 425px;
+}
+div.left{
+	position: relative;
+	float:left;
+	left: 250px;
+}
+div.image{
+	position: relative;
+	float: left;
+	left: 400px;
+}
+div.right{
+	position: relative;
+	float: right;
+	right: 400px;
+}
+div.right_up{
+	position: relative;
+	float: right;
+	right: 250px;
+}
